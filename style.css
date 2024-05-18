@@ -1,6 +1,6 @@
 .container{
     width: 100%;
-    height: 100vh;
+    height: 50vh;
     background-image: linear-gradient(rgba(0,0,50,0.8),rgba(0,0,50,0.8)),url(https://i.pinimg.com/originals/cf/2a/5c/cf2a5cb3f31da7420d4a3693443c8c10.jpg);
     background-size: cover;
     position: relative;
